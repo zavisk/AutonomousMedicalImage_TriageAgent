@@ -1,1 +1,1 @@
-# Autonomous-Medical-Image-Triage-Agent-
+# AutonomousnMedical Image Triage Agent
