@@ -131,3 +131,4 @@ Training takes ~30-40 minutes on A100 GPU.
 
 1. Rajpurkar, P., et al. (2017). CheXNet: Radiologist-level pneumonia detection on chest X-rays with deep learning.
 2. Irvin, J., et al. (2019). CheXpert: A large chest radiograph dataset with uncertainty labels.
+   
